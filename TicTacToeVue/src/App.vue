@@ -89,6 +89,8 @@ const ResetGame = () => {
 
 <style>
 body {
-	@apply text-black;
+	* {
+		color: black;
+	}
 }
 </style>
